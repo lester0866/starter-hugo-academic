@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sizhe "Lester" Li
+title: Sizhe (Lester) Li
 
 # Is this the primary user of the site?
 superuser: true
