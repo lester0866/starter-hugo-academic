@@ -67,6 +67,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a visiting student at MIT working on robot learning under the supervision of [Chuang Gan](http://people.csail.mit.edu/ganchuang/), [Tao Du](https://people.csail.mit.edu/taodu/), and [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html). I study how differentiable physics models can be leveraged for deformable object manipulations. 
+I am a visiting student at MIT working on robot learning under the supervision of [Chuang Gan](http://people.csail.mit.edu/ganchuang/) and [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html). I study how differentiable physics models can be leveraged for deformable object manipulations. 
 
 I am also a final-year undergrad in computer science at the University of Rochester. Previously, I was fortunate to work with [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/) at the Univesity of Rochester on audio-visual learning, and with [Thomas Serre](https://serre-lab.clps.brown.edu/person/thomas-serre/) at Brown University on cancer detection.
