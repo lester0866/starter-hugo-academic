@@ -10,29 +10,31 @@ role: 李思哲
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Rochester
+- name: University of Rochester, MIT
   url: https://www.rochester.edu/
-- name: MIT
-  url: https://www.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study how differentiable physics models can be leveraged for deformable object manipulations.
+bio: I study deformable object manipulation from the perspectives of learning, robotics, and graphics.
 
 # Interests to show in About widget
 interests:
-- Differentiable Physics
-- Deformable Object Manipulation
+- "**Robot Learning**: dynamics & control, differentiable physics"
+- "**Computer Vision**: scene representations"
+- "**Computer Graphics**: differentiable simulation"
+
 
 education:
   courses:
-    - course: Visiting Student, MIT 
-      year: 2021 - Now
-    - course: BS in Computer Science, University of Rochester
-      year: 2018 - Now
+    - course: Massachusetts Institute of Technology
+      year: 2021 - Present
+      institution: Undergraduate Visiting Student
+    - course: University of Rochester
+      year: 2018 - Dec. 2022 (Exp.)
+      institution: B.S. in Computer Science
 
-contacts:
-- "sizheli [at] mit.edu"
-- "sli96 [at] u.rochester.edu"
+# contacts:
+# - "sizheli [at] mit.edu"
+# - "sli96 [at] u.rochester.edu"
 
 
 # Social/Academic Networking
@@ -67,6 +69,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a visiting student at MIT working on robot learning under the supervision of [Chuang Gan](http://people.csail.mit.edu/ganchuang/) and [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html). I study how differentiable physics models can be leveraged for deformable object manipulations. 
+I am a visiting student at MIT working on robot learning under the supervision of [Chuang Gan](http://people.csail.mit.edu/ganchuang/) and [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html). I study deformable object manipulation through robot learning and computer graphics. 
 
 I am also a final-year undergrad in computer science at the University of Rochester. Previously, I was fortunate to work with [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/) at the Univesity of Rochester on audio-visual learning, and with [Thomas Serre](https://serre-lab.clps.brown.edu/person/thomas-serre/) at Brown University on cancer detection.
