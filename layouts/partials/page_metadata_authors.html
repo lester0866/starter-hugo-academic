@@ -17,7 +17,7 @@
     </span>
     {{- if isset $.Params "author_notes" -}}
       {{- with (index $.Params.author_notes $index) -}}
-        <i class="author-notes fas fa-asterisk" data-toggle="tooltip" title="{{.}}"></i>
+      <span {{ if $highlight_name }}class="author-highlighted" style="color:black"{{end}}>*</span>
       {{- end -}}
     {{- end -}}
   {{- end -}}
