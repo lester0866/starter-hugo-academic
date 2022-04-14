@@ -32,9 +32,6 @@ education:
       year: 2018 - Dec. 2022 (Exp.)
       institution: B.S. in Computer Science
 
-# contacts:
-# - "sizheli [at] mit.edu"
-# - "sli96 [at] u.rochester.edu"
 
 
 # Social/Academic Networking
@@ -68,9 +65,10 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
 I am a visiting student at MIT working on robot learning under the supervision of [Chuang Gan](http://people.csail.mit.edu/ganchuang/) and [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html). I study deformable object manipulation through robot learning and computer graphics. 
 
 I am also a final-year undergrad in computer science at the University of Rochester. Previously, I was fortunate to work with [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/) at the Univesity of Rochester on audio-visual learning, and with [Thomas Serre](https://serre-lab.clps.brown.edu/person/thomas-serre/) at Brown University on cancer detection.
 
-Email: sli96 [at] u.rochester.edu, sizheli [at] mit.edu
+---
+
+**Email**: sli96 [at] u.rochester.edu, sizheli [at] mit.edu

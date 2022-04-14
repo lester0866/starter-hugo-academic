@@ -30,7 +30,7 @@ publishDate: "2022-01-31T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ICLR, 2022 <span style="color:red">(Spotlight, 5%)</span>
+publication: ICLR, 2022 <span style="color:#336BD0;font-weight:bold">(Spotlight, 5%)</span>
 publication_short: ""
 
 abstract: Differentiable physics solver often gets stuck when the initial contact points of the end effectors are sub-optimal or when performing multi-stage tasks that require contact point switching, which often leads to many local minima. To address this challenge, we propose a contact point discovery approach (CPDeform) that guides the stand-alone differentiable physics solver to deform various soft-body plasticines.

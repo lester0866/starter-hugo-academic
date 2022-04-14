@@ -34,6 +34,10 @@ design:
   # Choose a view for the listings:
   view: community/myview
   columns: '3'
+  spacing: 
+        padding: ["35px", "0", "50px", "0"]
+  background:
+    color: "#F3F3F3"
 ---
 
 <!-- {{% callout note %}}
