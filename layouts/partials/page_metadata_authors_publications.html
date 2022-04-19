@@ -1,0 +1,44 @@
+{{/* Display author list. */}}
+
+{{- $taxonomy := "authors" }}
+{{ if .Param $taxonomy }}
+<div class="publication-author-font">
+    {{ range $index, $value := (.GetTerms $taxonomy) }}
+    {{- /* Highlight the author's name? */ -}}
+    {{- $highlight_name := .Page.Params.highlight_name | default false -}}
+    {{- $url_only := .Page.Params.url_only | default false -}}
+
+    {{- if gt $index 0 }}, {{ end -}}
+    <span>
+        {{- if $url_only -}}
+        <a href="{{ .Page.Params.external_url }}">{{.LinkTitle}}</a>
+        {{- else -}}
+        {{ .LinkTitle }}
+        {{- end -}}
+    </span>
+    {{- if isset $.Params "author_notes" -}}
+    {{- with (index $.Params.author_notes $index) -}}
+    <span>*</span>
+    {{- end -}}
+    {{- end -}}
+
+    {{- if isset $.Params "affliation_inds" -}}
+    {{- with (index $.Params.affliation_inds $index) -}}
+    <sup>{{ . }}</sup>
+    {{- end -}}
+    {{- end -}}
+
+    {{- end -}}
+
+</div>
+{{- end -}}
+
+{{- if isset $.Params "affliation_names" -}}
+<div>
+    {{ range $index, $value := .Params.affliation_names }}
+    {{- if gt $index 0 }}, {{ end -}}
+    <span style="color:black"><sup>{{add $index 1}}</sup>{{ $value }}</span>
+    {{- end -}}
+
+</div>
+{{- end -}}

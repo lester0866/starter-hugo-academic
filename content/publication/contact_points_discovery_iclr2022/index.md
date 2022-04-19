@@ -12,10 +12,29 @@ authors:
 - josh_tenenbaum
 - chuang_gan
 
+
+
+
+
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+
+affliation_inds:
+- "1"
+- "2"
+- "3"
+- "2"
+- "3"
+- "4"
+
+affliation_names:
+- "University of Rochester"
+- "UC San Diego"
+- "Massachusetts Institute of Technology"
+- "MIT-IBM Watson AI LAB"
+
 
 date: ""
 doi: ""
@@ -80,6 +99,32 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: []
 ---
+
+### Airplane
+
+{{< youtube cOUtDK2SfJE "25:10" >}}
+
+
+### Chair
+
+{{< youtube CjgUW1aqyI0 "25:10" >}}
+
+### Writer
+
+`{{< figure src="./writer_demo.gif" link="./writer_demo.gif" >}}`
+
+### Move++ 
+
+`{{< figure src="./move++_demo.gif" link="./move++_demo.gif" >}}`
+
+### Rope++ 
+
+`{{< figure src="./rope++_demo.gif" link="./rope++_demo.gif" >}}`
+
+### Code Release
+
+Upcoming, please stay tuned!
+
 
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
