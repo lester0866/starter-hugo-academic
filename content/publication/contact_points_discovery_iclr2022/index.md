@@ -102,12 +102,14 @@ slides: []
 
 ### Airplane
 
-{{< youtube cOUtDK2SfJE "25:10" >}}
+<!-- {{< youtube cOUtDK2SfJE "25:10" >}} -->
+{{< youtube cOUtDK2SfJE >}}
 
 
 ### Chair
 
-{{< youtube CjgUW1aqyI0 "25:10" >}}
+<!-- {{< youtube CjgUW1aqyI0 "25:10" >}} -->
+{{< youtube CjgUW1aqyI0 >}}
 
 ### Writer
 
