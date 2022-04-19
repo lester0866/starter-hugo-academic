@@ -71,7 +71,7 @@ url_pdf: 'https://openreview.net/pdf?id=mmUA7_O9mjY'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://sites.google.com/view/cpdeformiclr2022'
+url_project: 'https://lester0866.github.io/publication/contact_points_discovery_iclr2022/'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -100,6 +100,10 @@ projects: []
 slides: []
 ---
 
+### Dataset Illustration
+
+![Dataset Image](./dataset.png)
+
 ### Airplane
 
 <!-- {{< youtube cOUtDK2SfJE "25:10" >}} -->
@@ -127,13 +131,13 @@ slides: []
 
 Upcoming, please stay tuned!
 
+### Citation
 
-<!-- {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+```
+@InProceedings{li2022contact,
+author = {Li, Sizhe and Huang, Zhiao and Du, Tao and Su, Hao and Tenenbaum, Joshua and Gan, Chuang},
+title = {{C}ontact {P}oints {D}iscovery for {S}oft-{B}ody {M}anipulations with {D}ifferentiable {P}hysics},
+booktitle = {International Conference on Learning Representations (ICLR)},
+year = {2022}}
+```
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

@@ -46,13 +46,12 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/pdf/2111.05526.pdf'
-url_code: ''
+url_code: 'https://github.com/lester0866/Space-Time-Memory-Network-for-Sounding-Object-Localization-in-Videos'
 url_dataset: ''
 url_poster: ''
-url_project: 'https://sites.google.com/view/bmvc2021stm'
+url_project: 'https://lester0866.github.io/publication/space_time_memory_bmvc2021/'
 url_slides: ''
 url_source: ''
-# url_video: 'https://sites.google.com/view/bmvc2021stm'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -77,6 +76,29 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: []
 ---
+
+
+### Citation
+
+```
+@article{DBLP:journals/corr/abs-2111-05526,
+  author    = {Sizhe Li and
+               Yapeng Tian and
+               Chenliang Xu},
+  title     = {Space-Time Memory Network for Sounding Object Localization in Videos},
+  journal   = {CoRR},
+  volume    = {abs/2111.05526},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2111.05526},
+  eprinttype = {arXiv},
+  eprint    = {2111.05526},
+  timestamp = {Tue, 16 Nov 2021 12:12:31 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2111-05526.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
+
 
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
