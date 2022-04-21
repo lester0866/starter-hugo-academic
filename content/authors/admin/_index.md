@@ -14,7 +14,7 @@ organizations:
   url: https://www.rochester.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests span robot learning, vision, and physics simulation. Currently, I develop methods for robots to learn to interact with deformable objects with challenging dynamics.
+bio: "My research interests span robot learning, vision, and physics simulation. Currently, I develop methods for robots to learn to interact with deformable objects with challenging dynamics."
 
 # Interests to show in About widget
 interests:
