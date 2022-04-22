@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Sizhe Li # Website name
-baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://lester0866.github.io/' # Website URL
+copyright: '© 2022 Sizhe Li' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
