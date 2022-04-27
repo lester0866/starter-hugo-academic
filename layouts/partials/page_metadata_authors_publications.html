@@ -10,11 +10,10 @@
 
     {{- if gt $index 0 }}, {{ end -}}
     <span>
-        {{- if $url_only -}}
         <a href="{{ .Page.Params.external_url }}">{{.LinkTitle}}</a>
-        {{- else -}}
+        {{/*  {{- else -}}
         {{ .LinkTitle }}
-        {{- end -}}
+        {{- end -}}  */}}
     </span>
     {{- if isset $.Params "author_notes" -}}
     {{- with (index $.Params.author_notes $index) -}}

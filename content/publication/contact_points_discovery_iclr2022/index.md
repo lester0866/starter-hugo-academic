@@ -129,7 +129,7 @@ slides: []
 
 ### Code Release
 
-Upcoming, please stay tuned!
+Please check out our GitHub repository [CPdeform](https://github.com/lester0866/CPDeform).
 
 ### Citation
 
@@ -141,3 +141,7 @@ booktitle = {International Conference on Learning Representations (ICLR)},
 year = {2022}}
 ```
 
+### Acknowledgement
+
+We thank Hannah Skye Dunnigan for her help on graphic design. This work was supported by MIT-IBM Watson AI Lab and its member company 
+Nexplore, ONR MURI (N00014-13-1-0333), DARPA Machine Common Sense program, ONR (N00014-18-1-2847) and MERL.
