@@ -68,7 +68,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://openreview.net/pdf?id=mmUA7_O9mjY'
-url_code: 'https://github.com/lester0866/CPDeform/tree/main/CPDeform'
+url_code: 'https://github.com/lester0866/CPDeform'
 url_dataset: ''
 url_poster: ''
 url_project: 'https://lester0866.github.io/publication/contact_points_discovery_iclr2022/'
