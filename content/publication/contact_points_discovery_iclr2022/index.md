@@ -129,7 +129,7 @@ slides: []
 
 ### Code Release
 
-Please check out our GitHub repository [CPdeform](https://github.com/lester0866/CPDeform).
+Please check out our GitHub repository [CPDeform](https://github.com/lester0866/CPDeform).
 
 ### Citation
 
