@@ -73,4 +73,4 @@ I am broadly interested in robot learning, computer vision, and (differentiable)
 ---
 **Email**: sli96@u.rochester.edu, sizheli@mit.edu
 
-**News**: [10/17] Excited to be one of four students nominated by the University of Rochester for CRA Outstanding Undergraduate Researcher Awards in North America!
+**News**: [10/17] Excited to be one of the four students nominated by the University of Rochester for CRA Outstanding Undergraduate Researcher Awards in North America!
