@@ -66,7 +66,7 @@ highlight_name: true
 ---
 I am a visiting student at MIT working on robot learning, hosted by [Chuang Gan](http://people.csail.mit.edu/ganchuang/) and [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html). 
 
-I am also a final-year undergraduate in computer science at the University of Rochester, where I was fortunate to be advised by [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/) on audio-visual learning. At the beginning, I was fortunate to work with [Thomas Serre](https://serre-lab.clps.brown.edu/person/thomas-serre/) on cancer detection, starting as a high school researcher at Brown University.
+I am also a final-year undergraduate in computer science at the University of Rochester, where I was fortunate to be advised by [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/) on audio-visual learning. Initially, I was fortunate to work with [Thomas Serre](https://serre-lab.clps.brown.edu/person/thomas-serre/) on cancer detection, starting as a high school researcher at Brown University.
 
 I am broadly interested in robot learning, computer vision, and (differentiable) physics simulation. The goal of my research is to allow autonomous agents to learn to acquire physics-informed representation of our world through interactions. To this end, I currently develop methods for robots to learn to interact with deformable objects, such as plasticine and cloth, with challenging physical dynamics.
 
