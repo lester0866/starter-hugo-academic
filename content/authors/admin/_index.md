@@ -15,30 +15,29 @@ organizations:
   url: https://www.rochester.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "My research interests span robot learning, vision, and physics simulation. Currently, I develop methods for robots to learn to interact with deformable objects with challenging dynamics."
+bio: "I am broadly interested in robot learning, computer vision, and (differentiable) physics simulation. The goal of my research is to allow autonomous agents to learn to acquire physics-informed representation of our world through interactions. To this end, I currently develop methods for robots to learn to interact with deformable objects such as plasticine and cloth."
 
-# Interests to show in About widget
-interests:
-- "**Robot Learning**: dynamics & control, differentiable physics"
-- "**Computer Vision**: scene representations"
-- "**Computer Graphics**: differentiable simulation"
+# # Interests to show in About widget
+# interests:
+# - "**Robot Learning**: dynamics & control, differentiable physics"
+# - "**Computer Vision**: scene representations"
+# - "**Computer Graphics**: differentiable simulation"
 
 
 education:
   courses:
     - course: Massachusetts Institute of Technology
-      year: 2021 - Present
+      year: Jan. 2021 - Dec. 2022
       institution: Undergraduate Visiting Student
     - course: University of Rochester
-      year: 2018 - Dec. 2022 (Exp.)
+      year: Sep. 2018 - Dec. 2022
       institution: B.S. in Computer Science
-
-
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+
 social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: "ai"
@@ -67,10 +66,9 @@ highlight_name: true
 ---
 I am a visiting student at MIT working on robot learning, hosted by [Chuang Gan](http://people.csail.mit.edu/ganchuang/) and [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html). 
 
-I am also a final-year undergraduate in computer science at the University of Rochester, where I was fortunate to be advised by [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/) on audio-visual learning. Previously, I was fortunate to work with [Thomas Serre](https://serre-lab.clps.brown.edu/person/thomas-serre/) on cancer detection, starting as a high school researcher at Brown University.
+I am also a final-year undergraduate in computer science at the University of Rochester, where I was fortunate to be advised by [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/) on audio-visual learning. At the beginning, I was fortunate to work with [Thomas Serre](https://serre-lab.clps.brown.edu/person/thomas-serre/) on cancer detection, starting as a high school researcher at Brown University.
 
- My research interests span robot learning, computer vision, and physics simulation. Currently, I develop methods for robots to learn to interact with deformable objects with challenging dynamics.
+I am broadly interested in robot learning, computer vision, and (differentiable) physics simulation. The goal of my research is to allow autonomous agents to learn to acquire physics-informed representation of our world through interactions. To this end, I currently develop methods for robots to learn to interact with deformable objects, such as plasticine and cloth, with challenging physical dynamics.
 
 ---
-
 **Email**: sli96@u.rochester.edu, sizheli@mit.edu
