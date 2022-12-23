@@ -26,12 +26,12 @@ bio: "I am broadly interested in robot learning, computer vision, and (different
 
 education:
   courses:
+    - course: University of Rochester
+      year: Sep. 2018 - Dec. 2022
+      institution: B.S. in Computer Science; Highest Honors in Research
     - course: Massachusetts Institute of Technology
       year: Jan. 2021 - Dec. 2022
       institution: Undergraduate Visiting Student
-    - course: University of Rochester
-      year: Sep. 2018 - Dec. 2022
-      institution: B.S. in Computer Science
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -66,11 +66,14 @@ highlight_name: true
 ---
 I am a visiting student at MIT working on robot learning, hosted by [Chuang Gan](http://people.csail.mit.edu/ganchuang/) and [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html). 
 
-I am also a final-year undergraduate in computer science at the University of Rochester, where I was fortunate to be advised by [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/) on audio-visual learning. Initially, I was fortunate to work with [Thomas Serre](https://serre-lab.clps.brown.edu/person/thomas-serre/) on cancer detection, starting as a high school researcher at Brown University.
+I recently completed my B.S. in Computer Science with highest honors in research at the University of Rochester, where I worked with [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/).
+Initially, I was fortunate to work with [Thomas Serre](https://serre-lab.clps.brown.edu/person/thomas-serre/) on cancer detection, starting as a high school researcher at Brown University.
 
-I am broadly interested in robot learning, computer vision, and (differentiable) physics simulation. The goal of my research is to allow autonomous agents to learn to acquire physics-informed representation of our world through interactions. To this end, I currently develop methods for robots to learn to interact with deformable objects, such as plasticine and cloth, with challenging physical dynamics.
+I was selected as a Finalist for Outstanding Undergraduate Researcher Award 2023 in North America by Computing Research Association.
+
+I am broadly interested in robotics, computer vision, and machine learning. The goal of my research is to equip machines with physical knowledge that replicates the rapid physical inferences performed by humans. To this end, I have been developing predictive models that learn from and for physical interactions. In the past two years, I have focused on enabling robots to learn to interact with deformable objects, such as plasticine and cloth, with challenging physical dynamics.
 
 ---
 **Email**: sli96@u.rochester.edu, sizheli@mit.edu
 
-**News**: [10/17] Excited to be one of the four students nominated by the University of Rochester for CRA Outstanding Undergraduate Researcher Awards in North America!
+**News**: [12/15] Selected as Finalist for Outstanding Undergraduate Researcher Award 2023 in North America by Computing Research Association!
