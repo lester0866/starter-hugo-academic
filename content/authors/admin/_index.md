@@ -69,11 +69,11 @@ I am a visiting student at MIT working on robot learning, hosted by [Chuang Gan]
 I recently completed my B.S. in Computer Science with highest honors in research at the University of Rochester, where I worked with [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/).
 Initially, I was fortunate to work with [Thomas Serre](https://serre-lab.clps.brown.edu/person/thomas-serre/) on cancer detection, starting as a high school researcher at Brown University.
 
-I was selected as a Finalist for Outstanding Undergraduate Researcher Award 2023 in North America by Computing Research Association.
+I was selected as a [Finalist for Outstanding Undergraduate Researcher Award 2023](https://cra.org/2023-outstanding-undergraduate-researcher-award-recipients/) in North America by Computing Research Association.
 
 I am broadly interested in robotics, computer vision, and machine learning. The goal of my research is to equip machines with physical knowledge that replicates the rapid physical inferences performed by humans. To this end, I have been developing predictive models that learn from and for physical interactions. In the past two years, I have focused on enabling robots to learn to interact with deformable objects, such as plasticine and cloth, with challenging physical dynamics.
 
 ---
 **Email**: sli96@u.rochester.edu, sizheli@mit.edu
 
-**News**: [12/15] Selected as Finalist for Outstanding Undergraduate Researcher Award 2023 in North America by Computing Research Association!
+**News**: [12/15] Selected as [Finalist for Outstanding Undergraduate Researcher Award 2023](https://cra.org/2023-outstanding-undergraduate-researcher-award-recipients/) in North America by Computing Research Association!
