@@ -64,7 +64,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a visiting student at MIT working on robot learning, hosted by [Chuang Gan](http://people.csail.mit.edu/ganchuang/) and [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html). 
+I am a visiting researcher at MIT working on neural scene representations for robotics with [Vincent Sitzmann](https://www.vincentsitzmann.com/). Previously, I was a visiting student at MIT hosted by [Chuang Gan](http://people.csail.mit.edu/ganchuang/) and [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html). 
 
 I recently completed my B.S. in Computer Science with highest honors in research at the University of Rochester, where I worked with [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/).
 Initially, I was fortunate to work with [Thomas Serre](https://serre-lab.clps.brown.edu/person/thomas-serre/) on cancer detection, starting as a high school researcher at Brown University.
