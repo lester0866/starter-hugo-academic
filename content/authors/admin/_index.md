@@ -11,11 +11,11 @@ role: 李思哲
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Rochester, MIT
-  url: https://www.rochester.edu/
+- name: MIT CSAIL
+  url: csail.mit.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: "I am broadly interested in robot learning, computer vision, and (differentiable) physics simulation. The goal of my research is to allow autonomous agents to learn to acquire physics-informed representation of our world through interactions. To this end, I currently develop methods for robots to learn to interact with deformable objects such as plasticine and cloth."
+bio: "I am interested in building inverse models that learn to caputure the rich and *structured representation* of our world from *unstructured observation*, through physical interactions of embodied agents. To this end, my research draws ideas from robotics, vision, graphics, and computational cognitive science."
 
 # # Interests to show in About widget
 # interests:
@@ -64,16 +64,11 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a visiting researcher at MIT working on neural scene representations for robotics with [Vincent Sitzmann](https://www.vincentsitzmann.com/). Prior to this, I was a visiting student at MIT hosted by [Chuang Gan](http://people.csail.mit.edu/ganchuang/) and [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html). 
+I am a student researcher at MIT working with [Vincent Sitzmann](https://www.vincentsitzmann.com/). 
 
-I recently completed my B.S. in Computer Science with highest honors in research at the University of Rochester, where I worked with [Chenliang Xu](https://www.cs.rochester.edu/~cxu22/).
-Initially, I was fortunate to work with [Thomas Serre](https://serre-lab.clps.brown.edu/person/thomas-serre/) on cancer detection, starting as a high school researcher at Brown University.
+I recently completed my B.S. in Computer Science with the highest honors in research at the University of Rochester. During my undergrad, I was a visiting student at MIT hosted by [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), working closely with [Chuang Gan](http://people.csail.mit.edu/ganchuang/).
 
-I was selected as a [Finalist for Outstanding Undergraduate Researcher Award 2023](https://cra.org/2023-outstanding-undergraduate-researcher-award-recipients/) in North America by Computing Research Association.
-
-I am broadly interested in robotics, computer vision, and machine learning. The goal of my research is to equip machines with physical knowledge that replicates the rapid physical inferences performed by humans. To this end, I have been developing predictive models that learn from and for physical interactions. In the past two years, I have focused on enabling robots to learn to interact with deformable objects, such as plasticine and cloth, with challenging physical dynamics.
+I am interested in building inverse models that learn to caputure the rich and *structured representation* of our world from *unstructured observation*, through physical interactions of embodied agents. To this end, my research draws ideas from robotics, vision, graphics, and computational cognitive science.
 
 ---
-**Email**: sli96@u.rochester.edu, sizheli@mit.edu
-
-**News**: [12/15] Selected as [Finalist for Outstanding Undergraduate Researcher Award 2023](https://cra.org/2023-outstanding-undergraduate-researcher-award-recipients/) in North America by Computing Research Association!
+**Email**: sizheli@csail.mit.edu
