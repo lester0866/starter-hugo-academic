@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Sizhe Lester Li
-external_url: "https://lester0866.github.io/"
+external_url: "https://sizhe-li.github.io/"
 
 # Is this the primary user of the site?
 superuser: true

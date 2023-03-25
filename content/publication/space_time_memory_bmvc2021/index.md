@@ -46,10 +46,10 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/pdf/2111.05526.pdf'
-url_code: 'https://github.com/lester0866/Space-Time-Memory-Network-for-Sounding-Object-Localization-in-Videos'
+url_code: 'https://github.com/sizhe-li/Space-Time-Memory-Network-for-Sounding-Object-Localization-in-Videos'
 url_dataset: ''
 url_poster: ''
-url_project: 'https://lester0866.github.io/publication/space_time_memory_bmvc2021/'
+url_project: 'https://sizhe-li.github.io/publication/space_time_memory_bmvc2021/'
 url_slides: ''
 url_source: ''
 

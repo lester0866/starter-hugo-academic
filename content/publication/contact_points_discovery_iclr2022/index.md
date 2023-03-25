@@ -68,7 +68,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://openreview.net/pdf?id=mmUA7_O9mjY'
-url_code: 'https://github.com/lester0866/CPDeform'
+url_code: 'https://github.com/sizhe-li/CPDeform'
 url_dataset: ''
 url_poster: ''
 url_project: 'http://cpdeform.csail.mit.edu/'
@@ -129,7 +129,7 @@ slides: []
 
 ### Code Release
 
-Please check out our GitHub repository [CPDeform](https://github.com/lester0866/CPDeform).
+Please check out our GitHub repository [CPDeform](https://github.com/sizhe-li/CPDeform).
 
 ### Citation
 
