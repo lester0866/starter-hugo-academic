@@ -12,7 +12,7 @@ role: 李思哲
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: MIT CSAIL
-  url: csail.mit.edu
+  url: http://csail.mit.edu
 
 # Short bio (displayed in user profile at end of posts)
 bio: "I am interested in building inverse models that learn to caputure the rich and *structured representation* of our world from *unstructured observation*, through physical interactions of embodied agents. To this end, my research draws ideas from robotics, vision, graphics, and computational cognitive science."
