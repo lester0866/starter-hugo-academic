@@ -64,7 +64,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a student researcher at MIT working with [Vincent Sitzmann](https://www.vincentsitzmann.com/). 
+I am an incoming PhD student at [MIT CSAIL](http://csail.mit.edu/). I am fortunate to receive the [MIT Presidential Fellowship](https://oge.mit.edu/fellowships/presidential-graduate-fellowship-program/).
 
 I recently completed my B.S. in Computer Science with the highest honors in research at the University of Rochester. During my undergrad, I was a visiting student at MIT hosted by [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), working closely with [Chuang Gan](http://people.csail.mit.edu/ganchuang/).
 
