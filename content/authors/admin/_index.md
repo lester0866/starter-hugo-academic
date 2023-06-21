@@ -45,7 +45,7 @@ social:
 
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/_lesterli
+    link: https://twitter.com/sizhe_lester_li
 
   - icon: linkedin
     icon_pack: fab
