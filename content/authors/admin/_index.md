@@ -68,7 +68,7 @@ I am an incoming PhD student at [MIT CSAIL](http://csail.mit.edu/). I am fortuna
 
 I recently completed my B.S. in Computer Science with the highest honors in research at the University of Rochester. During my undergrad, I was a visiting student at MIT hosted by [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html), working closely with [Chuang Gan](http://people.csail.mit.edu/ganchuang/).
 
-I am interested in building inverse models that learn to capture the rich and *structured representation* of our world from *unstructured observation*, through physical interactions of embodied agents. To this end, my research draws ideas from robotics, vision, graphics, and computational cognitive science.
+I am interested in building inverse models that learn to capture the rich and structured representation of the physical world from unstructured observation. To this end, my research draws ideas from vision, graphics, robotics, and computational cognitive science.
 
 ---
 **Email**: sizheli@csail.mit.edu
