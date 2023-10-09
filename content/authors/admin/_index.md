@@ -68,7 +68,7 @@ I am a PhD student at [MIT CSAIL](https://csail.mit.edu/) working with [Vincent 
 
 I am interested in building inverse models that capture the rich and *structured representation* of the physical world from *unstructured observation*. To this end, my research draws ideas from vision+graphics, computational cognitive science, and robotics.
 
-**To master/undergraduate students**: If you would like to work with me or chat about life, career, or AI/ML research, feel free to email me to schedule a meeting. I encourage students from [underrepresented groups]() to reach out and will prioritize these meetings.
+**To master/undergraduate students**: If you would like to work with me or chat about life, career, or AI/ML research, feel free to email me. I encourage students from [underrepresented groups]() to reach out and will prioritize replying to these messages.
 
 ---
 **Email**: sizheli@csail.mit.edu
