@@ -64,7 +64,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD student at [MIT CSAIL](https://csail.mit.edu/) working with  [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) and [Vincent Sitzmann](https://www.vincentsitzmann.com/). Previously, I completed my B.S. in Computer Science at the University of Rochester. My research is partly supported by the [MIT Presidential Fellowship](https://oge.mit.edu/fellowships/presidential-graduate-fellowship-program/).
+I am a PhD student at [MIT CSAIL](https://csail.mit.edu/) working with [Vincent Sitzmann](https://www.vincentsitzmann.com/) and [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html). Previously, I completed my B.S. in Computer Science at the University of Rochester. My research is partly supported by the [MIT Presidential Fellowship](https://oge.mit.edu/fellowships/presidential-graduate-fellowship-program/).
 
 I am interested in building inverse models that capture the rich and *structured representation* of the physical world from *unstructured observation*. To this end, my research draws ideas from vision+graphics, computational cognitive science, and robotics.
 
