@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sizhe Lester Li
+title: S. Lester Li
 external_url: "https://sizhe-li.github.io/"
 
 # Is this the primary user of the site?
@@ -69,6 +69,8 @@ I am a PhD student at [MIT CSAIL](https://csail.mit.edu/) working with [Vincent 
 I am interested in building inverse models that capture the rich and *structured representation* of the physical world from *unstructured observation*. To this end, my research draws ideas from vision+graphics, computational cognitive science, and robotics.
 
 <!-- **To master/undergraduate students**: If you would like to chat about life, career, or AI/ML research, feel free to email me. I encourage students from [underrepresented groups]() to reach out and will prioritize replying to these messages. -->
+
+(I publish under the name Sizhe Lester Li)
 
 ---
 **Email**: sizheli@csail.mit.edu
