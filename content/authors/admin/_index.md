@@ -1,6 +1,6 @@
 ---
 # Display name
-title: S. Lester Li
+title: Sizhe Lester Li
 external_url: "https://sizhe-li.github.io/"
 
 # Is this the primary user of the site?
@@ -15,7 +15,7 @@ organizations:
   url: http://csail.mit.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: "I am interested in building inverse models that learn to caputure the rich and *structured representation* of our world from *unstructured observation*, through physical interactions of embodied agents. To this end, my research draws ideas from vision, graphics, robotics, and computational cognitive science."
+bio: "I am interested in building inverse models that learn to caputure the rich and *structured representation* of our world from *unstructured observation*, through physical interactions of embodied agents. To this end, my research draws ideas from vision+graphics, robotics, and computational cognitive science."
 
 # # Interests to show in About widget
 # interests:
@@ -66,7 +66,7 @@ highlight_name: true
 ---
 I am a PhD student at [MIT CSAIL](https://csail.mit.edu/) working with [Vincent Sitzmann](https://www.vincentsitzmann.com/) and [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html). Previously, I completed my B.S. in Computer Science at the University of Rochester. My research is partly supported by the [MIT Presidential Fellowship](https://oge.mit.edu/fellowships/presidential-graduate-fellowship-program/).
 
-I am interested in building inverse models that capture the rich and *structured representation* of the physical world from *unstructured observation*. To this end, my research draws ideas from vision+graphics, computational cognitive science, and robotics.
+I am interested in building inverse models that capture the rich and *structured representation* of the physical world from *unstructured observation*. To this end, my research draws ideas from vision+graphics, robotics, and computational cognitive science.
 
 <!-- **To master/undergraduate students**: If you would like to chat about life, career, or AI/ML research, feel free to email me. I encourage students from [underrepresented groups]() to reach out and will prioritize replying to these messages. -->
 
