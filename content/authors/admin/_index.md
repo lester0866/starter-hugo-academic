@@ -70,7 +70,7 @@ I am interested in building inverse models that capture the rich and *structured
 
 <!-- **To master/undergraduate students**: If you would like to chat about life, career, or AI/ML research, feel free to email me. I encourage students from [underrepresented groups]() to reach out and will prioritize replying to these messages. -->
 
-(I publish under the name Sizhe Lester Li)
+I go by Lester and publish under the name Sizhe Lester Li.
 
 ---
 **Email**: sizheli@csail.mit.edu
