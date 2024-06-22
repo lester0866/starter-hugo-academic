@@ -68,7 +68,7 @@ I am a PhD student at [MIT CSAIL](https://csail.mit.edu/) working with [Vincent 
 
 I am interested in building inverse models that capture the rich and *structured representation* of the physical world from *unstructured observation*. To this end, my research draws ideas from vision+graphics, robotics, and computational cognitive science.
 
-<!-- **To master/undergraduate students**: If you would like to chat about life, career, or AI/ML research, feel free to email me. I encourage students from [underrepresented groups]() to reach out and will prioritize replying to these messages. -->
+**To master/undergraduate students**: If you would like to chat about life, career, or AI/ML research, feel free to email me. I encourage students from [underrepresented groups]() to reach out and will prioritize replying to these messages.
 
 I go by Lester and publish under the name Sizhe Lester Li.
 
