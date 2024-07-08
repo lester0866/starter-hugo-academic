@@ -59,7 +59,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/pdf/2312.12337.pdf'
-url_code: ''
+url_code: 'https://github.com/dcharatan/pixelsplat'
 url_dataset: ''
 url_poster: ''
 url_project: 'https://davidcharatan.com/pixelsplat/'
